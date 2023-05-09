@@ -1,2 +1,5 @@
-# First-Repo
-A first repo for a magical programming adventure
+Shopping list:
+tomatos
+chicken
+crisps
+a piece of paper with printf ("Hello world) written on it;
